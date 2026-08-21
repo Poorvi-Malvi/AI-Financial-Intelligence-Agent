@@ -2,6 +2,7 @@
 Agentic pipeline connects AI reasoning with strict Python libraries like pandas and NumPy. The agent filters through unstructured market noise, dynamically decides which mathematical formula to run based on asset volatility, and executes localized code pipelines autonomously to output clean, structured risk profiles.
 
 
+
 # AI Financial Coach Agent with Google ADK 💰
 
 The **AI Financial Coach** is a personalized financial advisor powered by Google's ADK (Agent Development Kit) framework. This app provides comprehensive financial analysis and recommendations based on user inputs including income, expenses, debts, and financial goals.
